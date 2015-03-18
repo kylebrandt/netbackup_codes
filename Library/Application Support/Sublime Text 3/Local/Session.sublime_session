@@ -1,0 +1,4806 @@
+{
+	"folder_history":
+	[
+		"/Users/kbrandt/src/bosun.org",
+		"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist",
+		"/Users/kbrandt/src/github.com",
+		"/Users/kbrandt/src/puppet",
+		"/Users/kbrandt/src/bosun-monitor.github.io",
+		"/Users/kbrandt/Downloads/exim-4.85/src",
+		"/Users/kbrandt/src/github.com/kylebrandt/elastic",
+		"/Users/kbrandt/src/elastic",
+		"/Users/kbrandt/src/ls_elastic",
+		"/Users/kbrandt/src/github.com/bosun-monitor/collect",
+		"/Users/kbrandt/src/github.com/bosun-monitor/scollector",
+		"/Users/kbrandt/src/github.com/bosun-monitor/bosun",
+		"/Users/kbrandt/src/github.com/bosun-monitor/bosun-monitor.github.io",
+		"/Users/kbrandt/src/github.com/StackExchange/scollector",
+		"/Users/kbrandt/src/github.com/StackExchange/bosun",
+		"/Users/kbrandt/src/go/src/github.com/StackExchange/bosun",
+		"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector",
+		"/Users/kbrandt/src/bosun_webpage",
+		"/Users/kbrandt/src/go/src/gitlab.stackexchange.com/sre/stfs",
+		"/Users/kbrandt/src/go/src/gitlab.stackexchange.com/sre/hsnap",
+		"/Users/kbrandt/src/go/src/github.com/StackExchange/pduty",
+		"/Users/kbrandt/src/collectors",
+		"/Users/kbrandt/src/sysadmin-wiki.wiki",
+		"/Users/kbrandt/src/go/src/gitlab.stackexchange.com/sre/realog",
+		"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+		"/Users/kbrandt/src/go/src/haproxy",
+		"/Users/kbrandt/src/tsaf-config"
+	],
+	"last_version": 3065,
+	"last_window_id": 104,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1503.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"SetMaxSize	*gorp.ColumnMap ƒ"
+					],
+					[
+						"Drop",
+						"DropTables	error ƒ"
+					],
+					[
+						"P",
+						"PutIPs	AuthorizedIPs ν"
+					],
+					[
+						"Re",
+						"RemoteAddr	string ν"
+					],
+					[
+						"C",
+						"Conf	*conf.Conf ν"
+					],
+					[
+						"e",
+						"errorf	 ƒ"
+					],
+					[
+						"Par",
+						"ParseDuration	time.Duration, error ƒ"
+					],
+					[
+						"hap",
+						"haproxyStatus	map[string]float64 ν"
+					],
+					[
+						"haprox",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"hapro",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"i",
+						"i	int ν"
+					],
+					[
+						"hapr",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"Un",
+						"UnknownThreshold	int64 ν"
+					],
+					[
+						"unk",
+						"unknownMultiGroup	*template.Template ν"
+					],
+					[
+						"Prin",
+						"Println	 ƒ"
+					],
+					[
+						"Parse",
+						"ParseInt	i int64, err error ƒ"
+					],
+					[
+						"F",
+						"DefaultFreq	time.Duration ν"
+					],
+					[
+						"sched",
+						"schedule	*sched.Schedule ν"
+					],
+					[
+						"Aler",
+						"AlertDef	string ν"
+					],
+					[
+						"EX",
+						"ExtStatus	struct ʈ"
+					],
+					[
+						"err",
+						"err	 ν"
+					],
+					[
+						"S",
+						"VRRPAddressStatus	int64 ν"
+					],
+					[
+						"Va",
+						"VRRPAddressValue	string ν"
+					],
+					[
+						"St",
+						"Struct	 Ɩ"
+					],
+					[
+						"VRRP",
+						"VRRPAddressTable	 Ɩ"
+					],
+					[
+						"V",
+						"Version2c	 Ɩ"
+					],
+					[
+						"Spr",
+						"Sprintf	string ƒ"
+					],
+					[
+						"in",
+						"instance_id	int ν"
+					],
+					[
+						"n",
+						"nFields	int ν"
+					],
+					[
+						"collec",
+						"collectors	 package ρ"
+					],
+					[
+						"vrrp",
+						"vrrpStateDesc	 Ɩ"
+					],
+					[
+						"ent",
+						"entry	*vrrpInstanceEntry ν"
+					],
+					[
+						"VI",
+						"VInstanceName	string ν"
+					],
+					[
+						"Field",
+						"FieldByIndex	reflect.Value ƒ"
+					],
+					[
+						"War",
+						"Warningln	 ƒ"
+					],
+					[
+						"redis",
+						"redisKeyCount	int64 ƒ"
+					],
+					[
+						"A",
+						"AddMeta	 ƒ"
+					],
+					[
+						"R",
+						"ReadFile	[]byte, error ƒ"
+					],
+					[
+						"re",
+						"redisInstance	struct ʈ"
+					],
+					[
+						"redisI",
+						"redisInstances	map[string]redisInstance ν"
+					],
+					[
+						"meta",
+						"metadata"
+					],
+					[
+						"Ev",
+						"Eviction	 Ɩ"
+					],
+					[
+						"B",
+						"Bytes	 Ɩ"
+					],
+					[
+						"T",
+						"TagSet	opentsdb.TagSet ν"
+					],
+					[
+						"t",
+						"TagSet	map[string]string ʈ"
+					],
+					[
+						"Count",
+						"Counter	 Ɩ"
+					],
+					[
+						"oldT",
+						"oldTags	parse.Tags ν"
+					],
+					[
+						"Func",
+						"FuncNode	struct ʈ"
+					],
+					[
+						"Res",
+						"Results	struct ʈ"
+					],
+					[
+						"TypeS",
+						"TYPE_SERIES	 Ɩ"
+					],
+					[
+						"N",
+						"Number	float64 ʈ"
+					],
+					[
+						"New",
+						"NewBuffer	*bytes.Buffer ƒ"
+					],
+					[
+						"Std",
+						"Stdout	io.Writer ν"
+					],
+					[
+						"Pr",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewB",
+						"NewBoolQuery	elastic.BoolQuery ƒ"
+					],
+					[
+						"NewReg",
+						"NewRegexpQuery	elastic.RegexpQuery ƒ"
+					],
+					[
+						"time",
+						"timeLSRequest	resp elastic.SearchResult, err error ƒ"
+					],
+					[
+						"SearchRe",
+						"SearchResult	struct ʈ"
+					],
+					[
+						"Add",
+						"AddCustomTiming	 ƒ"
+					],
+					[
+						"NewSt",
+						"NewStatsAggregation	elastic.StatsAggregation ƒ"
+					],
+					[
+						"sta",
+						"stat_field	string ν"
+					],
+					[
+						"index",
+						"index_root	string ν"
+					],
+					[
+						"In",
+						"Indices	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"NewClu",
+						"NewClusterStateService	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"No",
+						"Now	time.Time ƒ"
+					],
+					[
+						"Filt",
+						"FilteredQuery	struct ʈ"
+					],
+					[
+						"Searchs",
+						"SearchSource	struct ʈ"
+					],
+					[
+						"fil",
+						"filtered	elastic.FilteredQuery ν"
+					],
+					[
+						"Reg",
+						"NewRegexpFilter	elastic.RegexpFilter ƒ"
+					],
+					[
+						"NewF",
+						"NewFilteredQuery	elastic.FilteredQuery ƒ"
+					],
+					[
+						"p",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewTerms",
+						"NewTermsFilter	elastic.TermsFilter ƒ"
+					],
+					[
+						"L",
+						"Lte	elastic.RangeFilter ƒ"
+					],
+					[
+						"G",
+						"Gte	elastic.RangeFilter ƒ"
+					],
+					[
+						"NewRang",
+						"NewRangeFilter	elastic.RangeFilter ƒ"
+					],
+					[
+						"d",
+						"DocCount	int64 ν"
+					],
+					[
+						"Pre",
+						"Pretty	*elastic.SearchService ƒ"
+					],
+					[
+						"NewAggre",
+						"NewTermsAggregation	elastic.TermsAggregation ƒ"
+					],
+					[
+						"a",
+						"aggregation	elastic.TermsAggregation ν"
+					],
+					[
+						"E",
+						"End	*time.Time ν"
+					],
+					[
+						"se",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"Sear",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"v",
+						"v	*vsphere.Vsphere ν"
+					],
+					[
+						"U",
+						"Unix	int64 ƒ"
+					],
+					[
+						"bosun",
+						"bosunPost	error ƒ"
+					],
+					[
+						"Ser",
+						"ServiceLevelDescription	string ν"
+					],
+					[
+						"Mee",
+						"Metasend	struct ʈ"
+					],
+					[
+						"Met",
+						"Metasend	struct ʈ"
+					],
+					[
+						"host",
+						"hostServiceTags	map[string]string ν"
+					],
+					[
+						"resp",
+						"responses	[]DellWarantyResponse ν"
+					],
+					[
+						"Num",
+						"NumberOfShards	float64 ν"
+					],
+					[
+						"Elas",
+						"ElasticIndexHealth	struct ʈ"
+					],
+					[
+						"O",
+						"Operation	 Ɩ"
+					],
+					[
+						"Cou",
+						"Counter	 Ɩ"
+					],
+					[
+						"memb",
+						"member_type	reflect.Type ν"
+					],
+					[
+						"cat",
+						"category	reflect.Value ν"
+					],
+					[
+						"El",
+						"ElasticIndexStats	struct ʈ"
+					],
+					[
+						"Rep",
+						"Replace	string ƒ"
+					],
+					[
+						"ex",
+						"existing_indicies	map[string]bool ν"
+					],
+					[
+						"ope",
+						"opentsdb	 package ρ"
+					],
+					[
+						"iot",
+						"ioutil	 package ρ"
+					],
+					[
+						"Han",
+						"HandleFunc	*mux.Route ƒ"
+					],
+					[
+						"er",
+						"error_codes	map[string][]string ʈ"
+					],
+					[
+						"Sp",
+						"Sprintf	string ƒ"
+					],
+					[
+						"res",
+						"Result	struct ʈ"
+					],
+					[
+						"un",
+						"unjoinedOk	bool ν"
+					],
+					[
+						"Ex",
+						"Expr	*Expr ν"
+					],
+					[
+						"st",
+						"state	struct ʈ"
+					],
+					[
+						"Tr",
+						"TrimLeft	string ƒ"
+					],
+					[
+						"Trim",
+						"TrimSpace	string ƒ"
+					],
+					[
+						"PRin",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Ob",
+						"ObjectiveResult	struct ʈ"
+					],
+					[
+						"Stat",
+						"StatusCode	int ν"
+					],
+					[
+						"s",
+						"s	string ν"
+					],
+					[
+						"Sn",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"Snap",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"wr",
+						"WriteString	n int, err error ƒ"
+					],
+					[
+						"Stdin",
+						"StdinPipe	io.WriteCloser, error ƒ"
+					],
+					[
+						"FP",
+						"Fprintln	n int, err error ƒ"
+					],
+					[
+						"dt",
+						"dtqs"
+					],
+					[
+						"svg",
+						"svgHeight"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"bor",
+						"border-bottom-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"leg",
+						"length"
+					],
+					[
+						"For",
+						"forEach"
+					],
+					[
+						"z",
+						"ZZ"
+					]
+				]
+			},
+			"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+			"command_palette":
+			{
+				"height": 67.0,
+				"selected_items":
+				[
+					[
+						"redis",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"paca",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOVE",
+						"Package Control: Remove Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"PACKA",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"P",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"GoSublime: Add/Remove package"
+					],
+					[
+						"GO build",
+						"GoSublime: Run build command"
+					],
+					[
+						"GoSublime: ",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 290.0,
+				"history":
+				[
+					"class GoOracleCommand(sublime_plugin.TextCommand):",
+					"import sublime, sublime_plugin, subprocess, time, re",
+					"os.environ",
+					"import os",
+					"env",
+					"os.env",
+					"view.run_command(\"help\")",
+					"view.run_command(\"get_settinga\")",
+					"view.run_command(\"get_setting\")",
+					"view.run_command(\"oracle\")",
+					"view.run_command(oracle)",
+					"goOracle",
+					"GoOracle.goOracle",
+					"oracle",
+					"view.run_command(\"oracle\")",
+					"import goOracle",
+					"oracle",
+					"GoOracleCommand",
+					"oracle",
+					"go_oracle",
+					"gooracle",
+					"oracle",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/kbrandt/src/github.com/go-gorp/gorp/gorp.go",
+				"/Users/kbrandt/Library/Application Support/Karabiner/private.xml",
+				"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/vsphere.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/puppet_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/procstats_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/web.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/collectors.go",
+				"/usr/local/Cellar/go/1.4/libexec/src/sort/sort.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/exim_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/elasticsearch.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker/run/supervisord.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_darwin.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/test_invalid/1",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/funcs.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/kdev.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/memcached_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/sched.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/process.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/ha.csv",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_range.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/alertkey.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/.editorconfig",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_nested.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_nested.go",
+				"/Users/kbrandt/src/bosun.org/opentsdb/tsdb.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/ping.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/search/search.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/ipv6.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/railgun_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ifstat_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/conntrack_linux.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux_test.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux.go",
+				"/Users/kbrandt/src/bosun.org/LICENSE",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/bootstrap_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/export_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/fixture_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/foundation_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/parserc.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/program.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/page.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/pie.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/suite_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun.state",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/bolt_amd64.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/action.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ack.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ackgroup.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs-dup",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_exists.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/moment-duration-format.d.ts",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/key.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/notify.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/notify.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default (OSX).sublime-keymap",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/template.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/cluster_health.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp_cisco.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/scollector",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.js",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/hbase_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker_opentsdb/run/tmp/hbase/hbase/lib/ruby/hbase/replication_admin.rb",
+				"/Users/kbrandt/src/bosun.org/README.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/Glue.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_adder.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_converter.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/packettoobig.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/dashboard.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/put.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/alertstate.html",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_match_all.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/MiniProfiler/go/miniprofiler/templates.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/rule.html",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/redis_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/graph.html",
+				"/Users/kbrandt/src/ls_keep.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/graph.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/mc.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ntp_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/node.go",
+				"/Users/kbrandt/src/bosun.org/collect/collect.go",
+				"/Users/kbrandt/Documents/test.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/notification-lookup-bad-notification",
+				"/Users/kbrandt/src/bosun.org/util/command.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/angular.min.js",
+				"/Users/kbrandt/src/bosun.org/graphite/graphite.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_windows.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/yum_update_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/cassandra_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker/run/start_opentsdb.sh"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/*_windows.go",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/bosun/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/partials",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"NewService",
+					"Sort",
+					"resultSlice",
+					"ResultSet",
+					"sort",
+					"alert",
+					"map[string]string",
+					"LSCOUNT",
+					"es",
+					"flagVsphere",
+					"flagV",
+					"status",
+					"Check",
+					"Union",
+					"CheckUnknown",
+					"foo",
+					"run",
+					"put",
+					"osCPU",
+					"ReverseProxy",
+					"relayProxy",
+					"Relay",
+					"APIRedirect",
+					"Ping",
+					"ping",
+					"icmp",
+					"crit, warn, and depends tags must be equal",
+					"rename",
+					"type Notification",
+					"status",
+					"Poll",
+					"time",
+					"Print",
+					"}},",
+					"},",
+					"RateType",
+					"MetricMeta",
+					"timeout",
+					"unknown alerts",
+					"Run",
+					"Run()",
+					"Status",
+					"restorestat",
+					"Save",
+					"Run",
+					"unknown",
+					"type Alert",
+					"Touch()",
+					"Touch",
+					"touched",
+					"CheckUnknown",
+					"sched",
+					"checkun",
+					"duration",
+					"time",
+					"AddNotification",
+					"Notifications",
+					"delete",
+					"notifications",
+					"notif",
+					"time",
+					"GroupSet",
+					"Notifications",
+					"notify",
+					"collect",
+					"frequency",
+					"conf",
+					"CheckFre",
+					"Run",
+					": ",
+					"if \\(",
+					"if ",
+					"group",
+					"encode",
+					"zws",
+					"Alert",
+					"State",
+					"state",
+					"Status",
+					"State",
+					"Status",
+					"defin",
+					"Rule",
+					"AlertTemplateStrings",
+					"Templates",
+					"api/templates",
+					"timeLSRequest",
+					"LSCount",
+					"graphite",
+					"vrrp",
+					"actions",
+					"post",
+					"body",
+					"vrrp",
+					"VRRP",
+					"vrrp",
+					"string",
+					"[]uint8",
+					"vrrp",
+					"entires",
+					"unit8",
+					"int64",
+					"kibana",
+					"puppetDisabled",
+					"oldRedis",
+					"print",
+					"print ",
+					"sp",
+					"redisInstances",
+					"interr",
+					"log",
+					"scope",
+					"meta",
+					"Watch",
+					"push",
+					"Metric",
+					"println",
+					"Metric",
+					"TagValuesByTagKey",
+					"MetadataMetrics",
+					"MetricName",
+					"items",
+					"logstashTag",
+					" 			}",
+					"Rename",
+					"Reanme",
+					"transpose",
+					"func"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StCritical"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.9o:///Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun-config":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun":
+			{
+				"height": 205.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun/sched":
+			{
+				"height": 340.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/queue":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/learning":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 112.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 299.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.Oracle Output":
+			{
+				"height": 285.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main.g",
+						"main.go"
+					],
+					[
+						"main.go",
+						"main.go"
+					],
+					[
+						"template",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"check",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"kde",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.conf",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.c",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"funcs.",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"hapr",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"funcs",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"pupp",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"proces",
+						"cmd/scollector/collectors/processes_linux.go"
+					],
+					[
+						"vsphere",
+						"cmd/scollector/collectors/vsphere.go"
+					],
+					[
+						"puppet",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"haprox",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"haproxy",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"sched",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"kdev.",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"earch.go",
+						"cmd/bosun/search/search.go"
+					],
+					[
+						"web.",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"kdev",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"web.go",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"k",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"main",
+						"cmd/bosun/main.go"
+					],
+					[
+						"web",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"onf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"conf.",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"config",
+						"_third_party/code.google.com/p/winsvc/mgr/config.go"
+					],
+					[
+						"linux",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"coll",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"funcs.go",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"colle",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"keepali",
+						"cmd/scollector/collectors/keepalived_linux.go"
+					],
+					[
+						"collec",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"snmp",
+						"cmd/scollector/collectors/snmp.go"
+					],
+					[
+						"keepa",
+						"cmd/scollector/collectors/keepalived.go"
+					],
+					[
+						"chec",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"metad",
+						"metadata/metadata.go"
+					],
+					[
+						"sche",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"host",
+						"cmd/bosun/web/static/js/host.ts"
+					],
+					[
+						"kd",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"conf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"railg",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"railgu",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"template.go",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"state.ts",
+						"cmd/bosun/web/static/js/state.ts"
+					],
+					[
+						"direct",
+						"cmd/bosun/web/static/js/directives.ts"
+					],
+					[
+						"templa",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"fun",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"metadata",
+						"metadata/metadata.go"
+					],
+					[
+						"redis",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"procstat",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"fu",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"func",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"opentsdb",
+						"opentsdb/tsdb.go"
+					],
+					[
+						"ex",
+						"cmd/bosun/expr/expr.go"
+					],
+					[
+						"conf",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"process",
+						"cmd/scollector/collectors/process.go"
+					],
+					[
+						"hbase",
+						"cmd/scollector/collectors/hbase_unix.go"
+					],
+					[
+						"netback",
+						"cmd/scollector/collectors/netbackup.go"
+					],
+					[
+						"exp",
+						"cmd/bosun/web/expr.go"
+					],
+					[
+						"warr",
+						"~/src/collectors/dell_warranty/warranty.go"
+					],
+					[
+						"prod",
+						"~/src/bosun-config/prod.conf"
+					],
+					[
+						"meta",
+						"metadata/metadata.go"
+					],
+					[
+						"metadat",
+						"metadata/metadata.go"
+					],
+					[
+						"met",
+						"metadata/metadata.go"
+					],
+					[
+						"metada",
+						"metadata/metadata.go"
+					],
+					[
+						"disk",
+						"cmd/scollector/collectors/disk_linux.go"
+					],
+					[
+						"netb",
+						"collectors/netbackup.go"
+					],
+					[
+						"interval",
+						"collectors/interval.go"
+					],
+					[
+						"hab",
+						"collectors/hbase_unix.go"
+					],
+					[
+						"net",
+						"collectors/netbackup.go"
+					],
+					[
+						"c",
+						"collectors/collectors.go"
+					],
+					[
+						"cpu",
+						"collectors/cpu_windows.go"
+					],
+					[
+						"procst",
+						"collectors/procstats_linux.go"
+					],
+					[
+						"aler",
+						"web/partials/alertstate.html"
+					],
+					[
+						"a",
+						"web/partials/alertstate.html"
+					],
+					[
+						"state",
+						"web/static/js/state.ts"
+					],
+					[
+						"tsaf.ts",
+						"web/static/js/tsaf.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+				],
+				"width": 755.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"SetMaxSize	*gorp.ColumnMap ƒ"
+					],
+					[
+						"Drop",
+						"DropTables	error ƒ"
+					],
+					[
+						"P",
+						"PutIPs	AuthorizedIPs ν"
+					],
+					[
+						"Re",
+						"RemoteAddr	string ν"
+					],
+					[
+						"C",
+						"Conf	*conf.Conf ν"
+					],
+					[
+						"e",
+						"errorf	 ƒ"
+					],
+					[
+						"Par",
+						"ParseDuration	time.Duration, error ƒ"
+					],
+					[
+						"hap",
+						"haproxyStatus	map[string]float64 ν"
+					],
+					[
+						"haprox",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"hapro",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"i",
+						"i	int ν"
+					],
+					[
+						"hapr",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"Un",
+						"UnknownThreshold	int64 ν"
+					],
+					[
+						"unk",
+						"unknownMultiGroup	*template.Template ν"
+					],
+					[
+						"Prin",
+						"Println	 ƒ"
+					],
+					[
+						"Parse",
+						"ParseInt	i int64, err error ƒ"
+					],
+					[
+						"F",
+						"DefaultFreq	time.Duration ν"
+					],
+					[
+						"sched",
+						"schedule	*sched.Schedule ν"
+					],
+					[
+						"Aler",
+						"AlertDef	string ν"
+					],
+					[
+						"EX",
+						"ExtStatus	struct ʈ"
+					],
+					[
+						"err",
+						"err	 ν"
+					],
+					[
+						"S",
+						"VRRPAddressStatus	int64 ν"
+					],
+					[
+						"Va",
+						"VRRPAddressValue	string ν"
+					],
+					[
+						"St",
+						"Struct	 Ɩ"
+					],
+					[
+						"VRRP",
+						"VRRPAddressTable	 Ɩ"
+					],
+					[
+						"V",
+						"Version2c	 Ɩ"
+					],
+					[
+						"Spr",
+						"Sprintf	string ƒ"
+					],
+					[
+						"in",
+						"instance_id	int ν"
+					],
+					[
+						"n",
+						"nFields	int ν"
+					],
+					[
+						"collec",
+						"collectors	 package ρ"
+					],
+					[
+						"vrrp",
+						"vrrpStateDesc	 Ɩ"
+					],
+					[
+						"ent",
+						"entry	*vrrpInstanceEntry ν"
+					],
+					[
+						"VI",
+						"VInstanceName	string ν"
+					],
+					[
+						"Field",
+						"FieldByIndex	reflect.Value ƒ"
+					],
+					[
+						"War",
+						"Warningln	 ƒ"
+					],
+					[
+						"redis",
+						"redisKeyCount	int64 ƒ"
+					],
+					[
+						"A",
+						"AddMeta	 ƒ"
+					],
+					[
+						"R",
+						"ReadFile	[]byte, error ƒ"
+					],
+					[
+						"re",
+						"redisInstance	struct ʈ"
+					],
+					[
+						"redisI",
+						"redisInstances	map[string]redisInstance ν"
+					],
+					[
+						"meta",
+						"metadata"
+					],
+					[
+						"Ev",
+						"Eviction	 Ɩ"
+					],
+					[
+						"B",
+						"Bytes	 Ɩ"
+					],
+					[
+						"T",
+						"TagSet	opentsdb.TagSet ν"
+					],
+					[
+						"t",
+						"TagSet	map[string]string ʈ"
+					],
+					[
+						"Count",
+						"Counter	 Ɩ"
+					],
+					[
+						"oldT",
+						"oldTags	parse.Tags ν"
+					],
+					[
+						"Func",
+						"FuncNode	struct ʈ"
+					],
+					[
+						"Res",
+						"Results	struct ʈ"
+					],
+					[
+						"TypeS",
+						"TYPE_SERIES	 Ɩ"
+					],
+					[
+						"N",
+						"Number	float64 ʈ"
+					],
+					[
+						"New",
+						"NewBuffer	*bytes.Buffer ƒ"
+					],
+					[
+						"Std",
+						"Stdout	io.Writer ν"
+					],
+					[
+						"Pr",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewB",
+						"NewBoolQuery	elastic.BoolQuery ƒ"
+					],
+					[
+						"NewReg",
+						"NewRegexpQuery	elastic.RegexpQuery ƒ"
+					],
+					[
+						"time",
+						"timeLSRequest	resp elastic.SearchResult, err error ƒ"
+					],
+					[
+						"SearchRe",
+						"SearchResult	struct ʈ"
+					],
+					[
+						"Add",
+						"AddCustomTiming	 ƒ"
+					],
+					[
+						"NewSt",
+						"NewStatsAggregation	elastic.StatsAggregation ƒ"
+					],
+					[
+						"sta",
+						"stat_field	string ν"
+					],
+					[
+						"index",
+						"index_root	string ν"
+					],
+					[
+						"In",
+						"Indices	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"NewClu",
+						"NewClusterStateService	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"No",
+						"Now	time.Time ƒ"
+					],
+					[
+						"Filt",
+						"FilteredQuery	struct ʈ"
+					],
+					[
+						"Searchs",
+						"SearchSource	struct ʈ"
+					],
+					[
+						"fil",
+						"filtered	elastic.FilteredQuery ν"
+					],
+					[
+						"Reg",
+						"NewRegexpFilter	elastic.RegexpFilter ƒ"
+					],
+					[
+						"NewF",
+						"NewFilteredQuery	elastic.FilteredQuery ƒ"
+					],
+					[
+						"p",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewTerms",
+						"NewTermsFilter	elastic.TermsFilter ƒ"
+					],
+					[
+						"L",
+						"Lte	elastic.RangeFilter ƒ"
+					],
+					[
+						"G",
+						"Gte	elastic.RangeFilter ƒ"
+					],
+					[
+						"NewRang",
+						"NewRangeFilter	elastic.RangeFilter ƒ"
+					],
+					[
+						"d",
+						"DocCount	int64 ν"
+					],
+					[
+						"Pre",
+						"Pretty	*elastic.SearchService ƒ"
+					],
+					[
+						"NewAggre",
+						"NewTermsAggregation	elastic.TermsAggregation ƒ"
+					],
+					[
+						"a",
+						"aggregation	elastic.TermsAggregation ν"
+					],
+					[
+						"E",
+						"End	*time.Time ν"
+					],
+					[
+						"se",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"Sear",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"v",
+						"v	*vsphere.Vsphere ν"
+					],
+					[
+						"U",
+						"Unix	int64 ƒ"
+					],
+					[
+						"bosun",
+						"bosunPost	error ƒ"
+					],
+					[
+						"Ser",
+						"ServiceLevelDescription	string ν"
+					],
+					[
+						"Mee",
+						"Metasend	struct ʈ"
+					],
+					[
+						"Met",
+						"Metasend	struct ʈ"
+					],
+					[
+						"host",
+						"hostServiceTags	map[string]string ν"
+					],
+					[
+						"resp",
+						"responses	[]DellWarantyResponse ν"
+					],
+					[
+						"Num",
+						"NumberOfShards	float64 ν"
+					],
+					[
+						"Elas",
+						"ElasticIndexHealth	struct ʈ"
+					],
+					[
+						"O",
+						"Operation	 Ɩ"
+					],
+					[
+						"Cou",
+						"Counter	 Ɩ"
+					],
+					[
+						"memb",
+						"member_type	reflect.Type ν"
+					],
+					[
+						"cat",
+						"category	reflect.Value ν"
+					],
+					[
+						"El",
+						"ElasticIndexStats	struct ʈ"
+					],
+					[
+						"Rep",
+						"Replace	string ƒ"
+					],
+					[
+						"ex",
+						"existing_indicies	map[string]bool ν"
+					],
+					[
+						"ope",
+						"opentsdb	 package ρ"
+					],
+					[
+						"iot",
+						"ioutil	 package ρ"
+					],
+					[
+						"Han",
+						"HandleFunc	*mux.Route ƒ"
+					],
+					[
+						"er",
+						"error_codes	map[string][]string ʈ"
+					],
+					[
+						"Sp",
+						"Sprintf	string ƒ"
+					],
+					[
+						"res",
+						"Result	struct ʈ"
+					],
+					[
+						"un",
+						"unjoinedOk	bool ν"
+					],
+					[
+						"Ex",
+						"Expr	*Expr ν"
+					],
+					[
+						"st",
+						"state	struct ʈ"
+					],
+					[
+						"Tr",
+						"TrimLeft	string ƒ"
+					],
+					[
+						"Trim",
+						"TrimSpace	string ƒ"
+					],
+					[
+						"PRin",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Ob",
+						"ObjectiveResult	struct ʈ"
+					],
+					[
+						"Stat",
+						"StatusCode	int ν"
+					],
+					[
+						"s",
+						"s	string ν"
+					],
+					[
+						"Sn",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"Snap",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"wr",
+						"WriteString	n int, err error ƒ"
+					],
+					[
+						"Stdin",
+						"StdinPipe	io.WriteCloser, error ƒ"
+					],
+					[
+						"FP",
+						"Fprintln	n int, err error ƒ"
+					],
+					[
+						"dt",
+						"dtqs"
+					],
+					[
+						"svg",
+						"svgHeight"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"bor",
+						"border-bottom-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"leg",
+						"length"
+					],
+					[
+						"For",
+						"forEach"
+					],
+					[
+						"z",
+						"ZZ"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/main.go",
+					"settings":
+					{
+						"buffer_size": 1186,
+						"line_ending": "Unix",
+						"name": "package main"
+					}
+				},
+				{
+					"contents": "Running oracle describe command...\n\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:165:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:171:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:177:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:183:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:189:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:195:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:213:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:219:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:225:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:231:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:237:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:243:10: Retry not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:249:10: Redispatch not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:255:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:261:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:267:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:273:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:279:10: Check not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:285:10: Transition not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:345:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:351:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:403:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:409:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:415:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:421:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:445:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:18:39: too few arguments in call to c_haproxy_csv\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:89:42: Response not declared by package metadata\ncannot find package \"github/kylebrandt/sre_checklist\" in any of:\n	/usr/local/Cellar/go/1.4/libexec/src/github/kylebrandt/sre_checklist (from $GOROOT)\n	/Users/kbrandt/src/github/kylebrandt/sre_checklist (from $GOPATH)\noracle: couldn't load packages due to errors: github/kylebrandt/sre_checklist, bosun.org/cmd/scollector/collectors.\n\n\n\nRunning oracle describe command...\n\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:165:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:171:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:177:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:183:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:189:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:195:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:213:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:219:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:225:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:231:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:237:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:243:10: Retry not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:249:10: Redispatch not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:255:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:261:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:267:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:273:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:279:10: Check not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:285:10: Transition not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:345:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:351:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:403:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:409:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:415:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:421:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:445:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:18:39: too few arguments in call to c_haproxy_csv\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:89:42: Response not declared by package metadata\nfound packages main.go (main) and models.go (models) in /Users/kbrandt/src/github.com/kylebrandt/sre_checklist\noracle: couldn't load packages due to errors: github.com/kylebrandt/sre_checklist, bosun.org/cmd/scollector/collectors.\n\n\n\nRunning oracle describe command...\n\n/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/main.go:51:12: expected '(', found newline\n/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models/models.go:54:9: cannot return (Category literal) (value of type Category) as value of type Team\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:165:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:171:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:177:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:183:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:189:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:195:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:213:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:219:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:225:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:231:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:237:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:243:10: Retry not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:249:10: Redispatch not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:255:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:261:10: Weight not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:267:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:273:10: Server not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:279:10: Check not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:285:10: Transition not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:345:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:351:10: Session not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:403:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:409:10: Request not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:415:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:421:10: Abort not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:445:10: Response not declared by package metadata\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:18:39: too few arguments in call to c_haproxy_csv\n/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go:89:42: Response not declared by package metadata\noracle: couldn't load packages due to errors: github.com/kylebrandt/sre_checklist/models, github.com/kylebrandt/sre_checklist, bosun.org/cmd/scollector/collectors.\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 11175,
+						"line_ending": "Unix",
+						"name": "Oracle Output",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 184,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 819,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 162,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models/models.go",
+					"settings":
+					{
+						"buffer_size": 1130,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "[\n	{ \"keys\": [\"super+shift+alt+ctrl+z\"], \"command\": \"go_oracle\"},\n]\n",
+					"settings":
+					{
+						"buffer_size": 68,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+			"command_palette":
+			{
+				"height": 67.0,
+				"selected_items":
+				[
+					[
+						"redis",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"paca",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOVE",
+						"Package Control: Remove Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"PACKA",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"P",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"GoSublime: Add/Remove package"
+					],
+					[
+						"GO build",
+						"GoSublime: Run build command"
+					],
+					[
+						"GoSublime: ",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 290.0,
+				"history":
+				[
+					"class GoOracleCommand(sublime_plugin.TextCommand):",
+					"import sublime, sublime_plugin, subprocess, time, re",
+					"os.environ",
+					"import os",
+					"env",
+					"os.env",
+					"view.run_command(\"help\")",
+					"view.run_command(\"get_settinga\")",
+					"view.run_command(\"get_setting\")",
+					"view.run_command(\"oracle\")",
+					"view.run_command(oracle)",
+					"goOracle",
+					"GoOracle.goOracle",
+					"oracle",
+					"view.run_command(\"oracle\")",
+					"import goOracle",
+					"oracle",
+					"GoOracleCommand",
+					"oracle",
+					"go_oracle",
+					"gooracle",
+					"oracle",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist",
+				"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models"
+			],
+			"file_history":
+			[
+				"/Users/kbrandt/src/github.com/go-gorp/gorp/gorp.go",
+				"/Users/kbrandt/Library/Application Support/Karabiner/private.xml",
+				"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/vsphere.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/puppet_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/procstats_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/web.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/collectors.go",
+				"/usr/local/Cellar/go/1.4/libexec/src/sort/sort.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/exim_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/elasticsearch.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker/run/supervisord.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_darwin.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/test_invalid/1",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/funcs.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/kdev.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/memcached_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/sched.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/process.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/ha.csv",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_range.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/alertkey.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/.editorconfig",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_nested.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_nested.go",
+				"/Users/kbrandt/src/bosun.org/opentsdb/tsdb.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/ping.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/search/search.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/ipv6.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/railgun_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ifstat_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/conntrack_linux.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux_test.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux.go",
+				"/Users/kbrandt/src/bosun.org/LICENSE",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/bootstrap_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/export_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/fixture_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/foundation_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/parserc.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/program.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/page.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/pie.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/suite_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun.state",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/bolt_amd64.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/action.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ack.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ackgroup.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs-dup",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_exists.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/moment-duration-format.d.ts",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/key.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/notify.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/notify.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default (OSX).sublime-keymap",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/template.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/cluster_health.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp_cisco.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/scollector",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.js",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/hbase_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker_opentsdb/run/tmp/hbase/hbase/lib/ruby/hbase/replication_admin.rb",
+				"/Users/kbrandt/src/bosun.org/README.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/Glue.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_adder.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_converter.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/packettoobig.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/dashboard.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/put.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/alertstate.html",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_match_all.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/MiniProfiler/go/miniprofiler/templates.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/rule.html",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/redis_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/graph.html",
+				"/Users/kbrandt/src/ls_keep.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/graph.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/mc.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ntp_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/node.go",
+				"/Users/kbrandt/src/bosun.org/collect/collect.go",
+				"/Users/kbrandt/Documents/test.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/notification-lookup-bad-notification",
+				"/Users/kbrandt/src/bosun.org/util/command.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/angular.min.js",
+				"/Users/kbrandt/src/bosun.org/graphite/graphite.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_windows.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/yum_update_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/cassandra_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker/run/start_opentsdb.sh"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/*_windows.go",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/bosun/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/partials",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"NewService",
+					"Sort",
+					"resultSlice",
+					"ResultSet",
+					"sort",
+					"alert",
+					"map[string]string",
+					"LSCOUNT",
+					"es",
+					"flagVsphere",
+					"flagV",
+					"status",
+					"Check",
+					"Union",
+					"CheckUnknown",
+					"foo",
+					"run",
+					"put",
+					"osCPU",
+					"ReverseProxy",
+					"relayProxy",
+					"Relay",
+					"APIRedirect",
+					"Ping",
+					"ping",
+					"icmp",
+					"crit, warn, and depends tags must be equal",
+					"rename",
+					"type Notification",
+					"status",
+					"Poll",
+					"time",
+					"Print",
+					"}},",
+					"},",
+					"RateType",
+					"MetricMeta",
+					"timeout",
+					"unknown alerts",
+					"Run",
+					"Run()",
+					"Status",
+					"restorestat",
+					"Save",
+					"Run",
+					"unknown",
+					"type Alert",
+					"Touch()",
+					"Touch",
+					"touched",
+					"CheckUnknown",
+					"sched",
+					"checkun",
+					"duration",
+					"time",
+					"AddNotification",
+					"Notifications",
+					"delete",
+					"notifications",
+					"notif",
+					"time",
+					"GroupSet",
+					"Notifications",
+					"notify",
+					"collect",
+					"frequency",
+					"conf",
+					"CheckFre",
+					"Run",
+					": ",
+					"if \\(",
+					"if ",
+					"group",
+					"encode",
+					"zws",
+					"Alert",
+					"State",
+					"state",
+					"Status",
+					"State",
+					"Status",
+					"defin",
+					"Rule",
+					"AlertTemplateStrings",
+					"Templates",
+					"api/templates",
+					"timeLSRequest",
+					"LSCount",
+					"graphite",
+					"vrrp",
+					"actions",
+					"post",
+					"body",
+					"vrrp",
+					"VRRP",
+					"vrrp",
+					"string",
+					"[]uint8",
+					"vrrp",
+					"entires",
+					"unit8",
+					"int64",
+					"kibana",
+					"puppetDisabled",
+					"oldRedis",
+					"print",
+					"print ",
+					"sp",
+					"redisInstances",
+					"interr",
+					"log",
+					"scope",
+					"meta",
+					"Watch",
+					"push",
+					"Metric",
+					"println",
+					"Metric",
+					"TagValuesByTagKey",
+					"MetadataMetrics",
+					"MetricName",
+					"items",
+					"logstashTag",
+					" 			}",
+					"Rename",
+					"Reanme",
+					"transpose",
+					"func"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StCritical"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/kbrandt/src/github.com/kylebrandt/sre_checklist"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1186,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										895,
+										911
+									]
+								],
+								"settings":
+								{
+									"auto_name": "package main",
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6165,
+										6165
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"line_numbers": false,
+									"syntax": "Packages/GoOracle/GoOracleResults.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 819,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										760,
+										760
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 162,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										101,
+										101
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 6,
+							"file": "/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models/models.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										478,
+										478
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 97.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 68,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										68,
+										68
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun-config":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun":
+			{
+				"height": 205.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun/sched":
+			{
+				"height": 340.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/queue":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/learning":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 112.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 299.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.Oracle Output":
+			{
+				"height": 285.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0 -2560 75 2560 1525 -2560 0 2560 1600 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main.g",
+						"main.go"
+					],
+					[
+						"main.go",
+						"main.go"
+					],
+					[
+						"template",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"check",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"kde",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.conf",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.c",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"funcs.",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"hapr",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"funcs",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"pupp",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"proces",
+						"cmd/scollector/collectors/processes_linux.go"
+					],
+					[
+						"vsphere",
+						"cmd/scollector/collectors/vsphere.go"
+					],
+					[
+						"puppet",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"haprox",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"haproxy",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"sched",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"kdev.",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"earch.go",
+						"cmd/bosun/search/search.go"
+					],
+					[
+						"web.",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"kdev",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"web.go",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"k",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"main",
+						"cmd/bosun/main.go"
+					],
+					[
+						"web",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"onf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"conf.",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"config",
+						"_third_party/code.google.com/p/winsvc/mgr/config.go"
+					],
+					[
+						"linux",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"coll",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"funcs.go",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"colle",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"keepali",
+						"cmd/scollector/collectors/keepalived_linux.go"
+					],
+					[
+						"collec",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"snmp",
+						"cmd/scollector/collectors/snmp.go"
+					],
+					[
+						"keepa",
+						"cmd/scollector/collectors/keepalived.go"
+					],
+					[
+						"chec",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"metad",
+						"metadata/metadata.go"
+					],
+					[
+						"sche",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"host",
+						"cmd/bosun/web/static/js/host.ts"
+					],
+					[
+						"kd",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"conf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"railg",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"railgu",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"template.go",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"state.ts",
+						"cmd/bosun/web/static/js/state.ts"
+					],
+					[
+						"direct",
+						"cmd/bosun/web/static/js/directives.ts"
+					],
+					[
+						"templa",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"fun",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"metadata",
+						"metadata/metadata.go"
+					],
+					[
+						"redis",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"procstat",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"fu",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"func",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"opentsdb",
+						"opentsdb/tsdb.go"
+					],
+					[
+						"ex",
+						"cmd/bosun/expr/expr.go"
+					],
+					[
+						"conf",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"process",
+						"cmd/scollector/collectors/process.go"
+					],
+					[
+						"hbase",
+						"cmd/scollector/collectors/hbase_unix.go"
+					],
+					[
+						"netback",
+						"cmd/scollector/collectors/netbackup.go"
+					],
+					[
+						"exp",
+						"cmd/bosun/web/expr.go"
+					],
+					[
+						"warr",
+						"~/src/collectors/dell_warranty/warranty.go"
+					],
+					[
+						"prod",
+						"~/src/bosun-config/prod.conf"
+					],
+					[
+						"meta",
+						"metadata/metadata.go"
+					],
+					[
+						"metadat",
+						"metadata/metadata.go"
+					],
+					[
+						"met",
+						"metadata/metadata.go"
+					],
+					[
+						"metada",
+						"metadata/metadata.go"
+					],
+					[
+						"disk",
+						"cmd/scollector/collectors/disk_linux.go"
+					],
+					[
+						"netb",
+						"collectors/netbackup.go"
+					],
+					[
+						"interval",
+						"collectors/interval.go"
+					],
+					[
+						"hab",
+						"collectors/hbase_unix.go"
+					],
+					[
+						"net",
+						"collectors/netbackup.go"
+					],
+					[
+						"c",
+						"collectors/collectors.go"
+					],
+					[
+						"cpu",
+						"collectors/cpu_windows.go"
+					],
+					[
+						"procst",
+						"collectors/procstats_linux.go"
+					],
+					[
+						"aler",
+						"web/partials/alertstate.html"
+					],
+					[
+						"a",
+						"web/partials/alertstate.html"
+					],
+					[
+						"state",
+						"web/static/js/state.ts"
+					],
+					[
+						"tsaf.ts",
+						"web/static/js/tsaf.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+				],
+				"width": 755.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 101,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"M",
+						"SetMaxSize	*gorp.ColumnMap ƒ"
+					],
+					[
+						"Drop",
+						"DropTables	error ƒ"
+					],
+					[
+						"P",
+						"PutIPs	AuthorizedIPs ν"
+					],
+					[
+						"Re",
+						"RemoteAddr	string ν"
+					],
+					[
+						"C",
+						"Conf	*conf.Conf ν"
+					],
+					[
+						"e",
+						"errorf	 ƒ"
+					],
+					[
+						"Par",
+						"ParseDuration	time.Duration, error ƒ"
+					],
+					[
+						"hap",
+						"haproxyStatus	map[string]float64 ν"
+					],
+					[
+						"haprox",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"hapro",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"i",
+						"i	int ν"
+					],
+					[
+						"hapr",
+						"haproxyCsvMeta	[]MetricMetaName ν"
+					],
+					[
+						"Un",
+						"UnknownThreshold	int64 ν"
+					],
+					[
+						"unk",
+						"unknownMultiGroup	*template.Template ν"
+					],
+					[
+						"Prin",
+						"Println	 ƒ"
+					],
+					[
+						"Parse",
+						"ParseInt	i int64, err error ƒ"
+					],
+					[
+						"F",
+						"DefaultFreq	time.Duration ν"
+					],
+					[
+						"sched",
+						"schedule	*sched.Schedule ν"
+					],
+					[
+						"Aler",
+						"AlertDef	string ν"
+					],
+					[
+						"EX",
+						"ExtStatus	struct ʈ"
+					],
+					[
+						"err",
+						"err	 ν"
+					],
+					[
+						"S",
+						"VRRPAddressStatus	int64 ν"
+					],
+					[
+						"Va",
+						"VRRPAddressValue	string ν"
+					],
+					[
+						"St",
+						"Struct	 Ɩ"
+					],
+					[
+						"VRRP",
+						"VRRPAddressTable	 Ɩ"
+					],
+					[
+						"V",
+						"Version2c	 Ɩ"
+					],
+					[
+						"Spr",
+						"Sprintf	string ƒ"
+					],
+					[
+						"in",
+						"instance_id	int ν"
+					],
+					[
+						"n",
+						"nFields	int ν"
+					],
+					[
+						"collec",
+						"collectors	 package ρ"
+					],
+					[
+						"vrrp",
+						"vrrpStateDesc	 Ɩ"
+					],
+					[
+						"ent",
+						"entry	*vrrpInstanceEntry ν"
+					],
+					[
+						"VI",
+						"VInstanceName	string ν"
+					],
+					[
+						"Field",
+						"FieldByIndex	reflect.Value ƒ"
+					],
+					[
+						"War",
+						"Warningln	 ƒ"
+					],
+					[
+						"redis",
+						"redisKeyCount	int64 ƒ"
+					],
+					[
+						"A",
+						"AddMeta	 ƒ"
+					],
+					[
+						"R",
+						"ReadFile	[]byte, error ƒ"
+					],
+					[
+						"re",
+						"redisInstance	struct ʈ"
+					],
+					[
+						"redisI",
+						"redisInstances	map[string]redisInstance ν"
+					],
+					[
+						"meta",
+						"metadata"
+					],
+					[
+						"Ev",
+						"Eviction	 Ɩ"
+					],
+					[
+						"B",
+						"Bytes	 Ɩ"
+					],
+					[
+						"T",
+						"TagSet	opentsdb.TagSet ν"
+					],
+					[
+						"t",
+						"TagSet	map[string]string ʈ"
+					],
+					[
+						"Count",
+						"Counter	 Ɩ"
+					],
+					[
+						"oldT",
+						"oldTags	parse.Tags ν"
+					],
+					[
+						"Func",
+						"FuncNode	struct ʈ"
+					],
+					[
+						"Res",
+						"Results	struct ʈ"
+					],
+					[
+						"TypeS",
+						"TYPE_SERIES	 Ɩ"
+					],
+					[
+						"N",
+						"Number	float64 ʈ"
+					],
+					[
+						"New",
+						"NewBuffer	*bytes.Buffer ƒ"
+					],
+					[
+						"Std",
+						"Stdout	io.Writer ν"
+					],
+					[
+						"Pr",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewB",
+						"NewBoolQuery	elastic.BoolQuery ƒ"
+					],
+					[
+						"NewReg",
+						"NewRegexpQuery	elastic.RegexpQuery ƒ"
+					],
+					[
+						"time",
+						"timeLSRequest	resp elastic.SearchResult, err error ƒ"
+					],
+					[
+						"SearchRe",
+						"SearchResult	struct ʈ"
+					],
+					[
+						"Add",
+						"AddCustomTiming	 ƒ"
+					],
+					[
+						"NewSt",
+						"NewStatsAggregation	elastic.StatsAggregation ƒ"
+					],
+					[
+						"sta",
+						"stat_field	string ν"
+					],
+					[
+						"index",
+						"index_root	string ν"
+					],
+					[
+						"In",
+						"Indices	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"NewClu",
+						"NewClusterStateService	*elastic.ClusterStateService ƒ"
+					],
+					[
+						"No",
+						"Now	time.Time ƒ"
+					],
+					[
+						"Filt",
+						"FilteredQuery	struct ʈ"
+					],
+					[
+						"Searchs",
+						"SearchSource	struct ʈ"
+					],
+					[
+						"fil",
+						"filtered	elastic.FilteredQuery ν"
+					],
+					[
+						"Reg",
+						"NewRegexpFilter	elastic.RegexpFilter ƒ"
+					],
+					[
+						"NewF",
+						"NewFilteredQuery	elastic.FilteredQuery ƒ"
+					],
+					[
+						"p",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"NewTerms",
+						"NewTermsFilter	elastic.TermsFilter ƒ"
+					],
+					[
+						"L",
+						"Lte	elastic.RangeFilter ƒ"
+					],
+					[
+						"G",
+						"Gte	elastic.RangeFilter ƒ"
+					],
+					[
+						"NewRang",
+						"NewRangeFilter	elastic.RangeFilter ƒ"
+					],
+					[
+						"d",
+						"DocCount	int64 ν"
+					],
+					[
+						"Pre",
+						"Pretty	*elastic.SearchService ƒ"
+					],
+					[
+						"NewAggre",
+						"NewTermsAggregation	elastic.TermsAggregation ƒ"
+					],
+					[
+						"a",
+						"aggregation	elastic.TermsAggregation ν"
+					],
+					[
+						"E",
+						"End	*time.Time ν"
+					],
+					[
+						"se",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"Sear",
+						"SearchService	elastic.SearchService ν"
+					],
+					[
+						"v",
+						"v	*vsphere.Vsphere ν"
+					],
+					[
+						"U",
+						"Unix	int64 ƒ"
+					],
+					[
+						"bosun",
+						"bosunPost	error ƒ"
+					],
+					[
+						"Ser",
+						"ServiceLevelDescription	string ν"
+					],
+					[
+						"Mee",
+						"Metasend	struct ʈ"
+					],
+					[
+						"Met",
+						"Metasend	struct ʈ"
+					],
+					[
+						"host",
+						"hostServiceTags	map[string]string ν"
+					],
+					[
+						"resp",
+						"responses	[]DellWarantyResponse ν"
+					],
+					[
+						"Num",
+						"NumberOfShards	float64 ν"
+					],
+					[
+						"Elas",
+						"ElasticIndexHealth	struct ʈ"
+					],
+					[
+						"O",
+						"Operation	 Ɩ"
+					],
+					[
+						"Cou",
+						"Counter	 Ɩ"
+					],
+					[
+						"memb",
+						"member_type	reflect.Type ν"
+					],
+					[
+						"cat",
+						"category	reflect.Value ν"
+					],
+					[
+						"El",
+						"ElasticIndexStats	struct ʈ"
+					],
+					[
+						"Rep",
+						"Replace	string ƒ"
+					],
+					[
+						"ex",
+						"existing_indicies	map[string]bool ν"
+					],
+					[
+						"ope",
+						"opentsdb	 package ρ"
+					],
+					[
+						"iot",
+						"ioutil	 package ρ"
+					],
+					[
+						"Han",
+						"HandleFunc	*mux.Route ƒ"
+					],
+					[
+						"er",
+						"error_codes	map[string][]string ʈ"
+					],
+					[
+						"Sp",
+						"Sprintf	string ƒ"
+					],
+					[
+						"res",
+						"Result	struct ʈ"
+					],
+					[
+						"un",
+						"unjoinedOk	bool ν"
+					],
+					[
+						"Ex",
+						"Expr	*Expr ν"
+					],
+					[
+						"st",
+						"state	struct ʈ"
+					],
+					[
+						"Tr",
+						"TrimLeft	string ƒ"
+					],
+					[
+						"Trim",
+						"TrimSpace	string ƒ"
+					],
+					[
+						"PRin",
+						"Println	n int, err error ƒ"
+					],
+					[
+						"Ob",
+						"ObjectiveResult	struct ʈ"
+					],
+					[
+						"Stat",
+						"StatusCode	int ν"
+					],
+					[
+						"s",
+						"s	string ν"
+					],
+					[
+						"Sn",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"Snap",
+						"SnapShots	[]SnapShot ʈ"
+					],
+					[
+						"wr",
+						"WriteString	n int, err error ƒ"
+					],
+					[
+						"Stdin",
+						"StdinPipe	io.WriteCloser, error ƒ"
+					],
+					[
+						"FP",
+						"Fprintln	n int, err error ƒ"
+					],
+					[
+						"dt",
+						"dtqs"
+					],
+					[
+						"svg",
+						"svgHeight"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"bor",
+						"border-bottom-color"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"leg",
+						"length"
+					],
+					[
+						"For",
+						"forEach"
+					],
+					[
+						"z",
+						"ZZ"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/main.go",
+					"settings":
+					{
+						"buffer_size": 8125,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived_linux.go",
+					"settings":
+					{
+						"buffer_size": 6332,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/procstats_linux.go",
+					"settings":
+					{
+						"buffer_size": 13184,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/goOracle.py",
+					"settings":
+					{
+						"buffer_size": 9088,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+			"command_palette":
+			{
+				"height": 67.0,
+				"selected_items":
+				[
+					[
+						"redis",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"paca",
+						"Package Control: Remove Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"REMOVE",
+						"Package Control: Remove Package"
+					],
+					[
+						"Packa",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"emmet",
+						"Set Syntax: Emmet"
+					],
+					[
+						"PACKA",
+						"Package Control: Install Package"
+					],
+					[
+						"Instal",
+						"Package Control: Install Package"
+					],
+					[
+						"P",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"GoSublime: Add/Remove package"
+					],
+					[
+						"GO build",
+						"GoSublime: Run build command"
+					],
+					[
+						"GoSublime: ",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package i",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 467.0
+			},
+			"console":
+			{
+				"height": 419.0,
+				"history":
+				[
+					"class GoOracleCommand(sublime_plugin.TextCommand):",
+					"import sublime, sublime_plugin, subprocess, time, re",
+					"os.environ",
+					"import os",
+					"env",
+					"os.env",
+					"view.run_command(\"help\")",
+					"view.run_command(\"get_settinga\")",
+					"view.run_command(\"get_setting\")",
+					"view.run_command(\"oracle\")",
+					"view.run_command(oracle)",
+					"goOracle",
+					"GoOracle.goOracle",
+					"oracle",
+					"view.run_command(\"oracle\")",
+					"import goOracle",
+					"oracle",
+					"GoOracleCommand",
+					"oracle",
+					"go_oracle",
+					"gooracle",
+					"oracle",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/kbrandt/src/bosun.org",
+				"/Users/kbrandt/src/bosun.org/cmd",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+				"/Users/kbrandt/src/bosun.org/util",
+				"/Users/kbrandt/src/bosun.org/vsphere"
+			],
+			"file_history":
+			[
+				"/Users/kbrandt/src/golang.org/x/tools/oracle/pos.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/goOracle.py",
+				"/Users/kbrandt/src/github.com/go-gorp/gorp/gorp.go",
+				"/Users/kbrandt/Library/Application Support/Karabiner/private.xml",
+				"/Users/kbrandt/src/github.com/kylebrandt/sre_checklist/models.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/vsphere.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/puppet_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/procstats_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/main.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/web.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/collectors.go",
+				"/usr/local/Cellar/go/1.4/libexec/src/sort/sort.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/check.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/expr.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/exim_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/elasticsearch.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker/run/supervisord.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/processes_darwin.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/test_invalid/1",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/funcs.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/kdev.conf",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/memcached_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/haproxy_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/sched.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/process.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/ha.csv",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_range.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/alertkey.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/.editorconfig",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_nested.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_aggs_nested.go",
+				"/Users/kbrandt/src/bosun.org/opentsdb/tsdb.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/ping.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/conf.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/search/search.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/ipv6.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/railgun_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ifstat_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_linux.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/conntrack_linux.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux_test.go",
+				"/Users/kbrandt/src/bosun.org/metadata/metadata_linux.go",
+				"/Users/kbrandt/src/bosun.org/LICENSE",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/bootstrap_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/export_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/fixture_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/foundation_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/helpers_test.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/parserc.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/program.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/page.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/pie.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/check.v1/printer_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/parse.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/gopkg.in/yaml.v1/suite_test.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun.state",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/boltdb/bolt/bolt_amd64.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/action.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ack.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/ackgroup.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs-dup",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_exists.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/moment-duration-format.d.ts",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/vdobler/chart/key.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/notify.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/notify.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/Default (OSX).sublime-keymap",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/sched/template.go",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/cluster_health.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/snmp_cisco.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/scollector",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/host.js",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/hbase_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/lookup-key-pairs",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/docker_opentsdb/run/tmp/hbase/hbase/lib/ruby/hbase/replication_admin.rb",
+				"/Users/kbrandt/src/bosun.org/README.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+				"/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/User/Glue.sublime-settings",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_adder.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/code.google.com/p/draw2d/draw2d/path_converter.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/golang.org/x/net/icmp/packettoobig.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/dashboard.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/put.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/directives.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/alertstate.html",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/olivere/elastic/search_filters_match_all.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/state.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static.go",
+				"/Users/kbrandt/src/bosun.org/_third_party/github.com/MiniProfiler/go/miniprofiler/templates.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/rule.html",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/redis_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/rule.js",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/partials/graph.html",
+				"/Users/kbrandt/src/ls_keep.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/graph.ts",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/mc.sh",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/ntp_unix.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse/node.go",
+				"/Users/kbrandt/src/bosun.org/collect/collect.go",
+				"/Users/kbrandt/Documents/test.html",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/invalid/notification-lookup-bad-notification",
+				"/Users/kbrandt/src/bosun.org/util/command.go",
+				"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js/angular.min.js",
+				"/Users/kbrandt/src/bosun.org/graphite/graphite.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/disk_windows.go",
+				"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/yum_update_linux.go"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/*_windows.go",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/web/static/js",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/conf",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr/parse",
+					"/Users/kbrandt/src/bosun.org",
+					"/Users/kbrandt/src/bosun.org/cmd/scollector/collectors",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/sched",
+					"/Users/kbrandt/src/bosun.org/cmd/bosun/expr",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/bosun/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/partials",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf/web/static/js",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/tsaf",
+					"/Users/kbrandt/src/go/src/github.com/StackExchange/scollector"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"GOOS",
+					"run",
+					"file_name",
+					"view",
+					"file_name",
+					"NewService",
+					"Sort",
+					"resultSlice",
+					"ResultSet",
+					"sort",
+					"alert",
+					"map[string]string",
+					"LSCOUNT",
+					"es",
+					"flagVsphere",
+					"flagV",
+					"status",
+					"Check",
+					"Union",
+					"CheckUnknown",
+					"foo",
+					"run",
+					"put",
+					"osCPU",
+					"ReverseProxy",
+					"relayProxy",
+					"Relay",
+					"APIRedirect",
+					"Ping",
+					"ping",
+					"icmp",
+					"crit, warn, and depends tags must be equal",
+					"rename",
+					"type Notification",
+					"status",
+					"Poll",
+					"time",
+					"Print",
+					"}},",
+					"},",
+					"RateType",
+					"MetricMeta",
+					"timeout",
+					"unknown alerts",
+					"Run",
+					"Run()",
+					"Status",
+					"restorestat",
+					"Save",
+					"Run",
+					"unknown",
+					"type Alert",
+					"Touch()",
+					"Touch",
+					"touched",
+					"CheckUnknown",
+					"sched",
+					"checkun",
+					"duration",
+					"time",
+					"AddNotification",
+					"Notifications",
+					"delete",
+					"notifications",
+					"notif",
+					"time",
+					"GroupSet",
+					"Notifications",
+					"notify",
+					"collect",
+					"frequency",
+					"conf",
+					"CheckFre",
+					"Run",
+					": ",
+					"if \\(",
+					"if ",
+					"group",
+					"encode",
+					"zws",
+					"Alert",
+					"State",
+					"state",
+					"Status",
+					"State",
+					"Status",
+					"defin",
+					"Rule",
+					"AlertTemplateStrings",
+					"Templates",
+					"api/templates",
+					"timeLSRequest",
+					"LSCount",
+					"graphite",
+					"vrrp",
+					"actions",
+					"post",
+					"body",
+					"vrrp",
+					"VRRP",
+					"vrrp",
+					"string",
+					"[]uint8",
+					"vrrp",
+					"entires",
+					"unit8",
+					"int64",
+					"kibana",
+					"puppetDisabled",
+					"oldRedis",
+					"print",
+					"print ",
+					"sp",
+					"redisInstances",
+					"interr",
+					"log",
+					"scope",
+					"meta",
+					"Watch",
+					"push",
+					"Metric",
+					"println",
+					"Metric",
+					"TagValuesByTagKey",
+					"MetadataMetrics",
+					"MetricName",
+					"items",
+					"logstashTag"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"StCritical"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/kbrandt/src/bosun.org"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/main.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8125,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4083,
+										4094
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1344.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/keepalived_linux.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6332,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4504,
+										4511
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1717.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/kbrandt/src/bosun.org/cmd/scollector/collectors/procstats_linux.go",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 13184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1465,
+										1483
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle/goOracle.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9088,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5210,
+										5210
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1195.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.235210470319,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///Users/kbrandt/Library/Application Support/Sublime Text 3/Packages/GoOracle":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun-config":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun":
+			{
+				"height": 205.0
+			},
+			"output.9o:///Users/kbrandt/src/bosun.org/cmd/bosun/sched":
+			{
+				"height": 340.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/collectors":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/github.com/StackExchange/scollector/queue":
+			{
+				"height": 112.0
+			},
+			"output.9o:///Users/kbrandt/src/go/src/learning":
+			{
+				"height": 112.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 112.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 299.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 100.0
+			},
+			"output.Oracle Output":
+			{
+				"height": 285.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0 0 52 2560 1525 0 0 2560 1577 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"main.g",
+						"main.go"
+					],
+					[
+						"main.go",
+						"main.go"
+					],
+					[
+						"template",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"check",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"kde",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.conf",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"kdev.c",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"funcs.",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"hapr",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"funcs",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"pupp",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"proces",
+						"cmd/scollector/collectors/processes_linux.go"
+					],
+					[
+						"vsphere",
+						"cmd/scollector/collectors/vsphere.go"
+					],
+					[
+						"puppet",
+						"cmd/scollector/collectors/puppet_linux.go"
+					],
+					[
+						"haprox",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"haproxy",
+						"cmd/scollector/collectors/haproxy_unix.go"
+					],
+					[
+						"sched",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"kdev.",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"earch.go",
+						"cmd/bosun/search/search.go"
+					],
+					[
+						"web.",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"kdev",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"web.go",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"k",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"main",
+						"cmd/bosun/main.go"
+					],
+					[
+						"web",
+						"cmd/bosun/web/web.go"
+					],
+					[
+						"onf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"conf.",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"config",
+						"_third_party/code.google.com/p/winsvc/mgr/config.go"
+					],
+					[
+						"linux",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"coll",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"funcs.go",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"colle",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"keepali",
+						"cmd/scollector/collectors/keepalived_linux.go"
+					],
+					[
+						"collec",
+						"cmd/scollector/collectors/collectors.go"
+					],
+					[
+						"snmp",
+						"cmd/scollector/collectors/snmp.go"
+					],
+					[
+						"keepa",
+						"cmd/scollector/collectors/keepalived.go"
+					],
+					[
+						"chec",
+						"cmd/bosun/sched/check.go"
+					],
+					[
+						"metad",
+						"metadata/metadata.go"
+					],
+					[
+						"sche",
+						"cmd/bosun/sched/sched.go"
+					],
+					[
+						"host",
+						"cmd/bosun/web/static/js/host.ts"
+					],
+					[
+						"kd",
+						"cmd/bosun/kdev.conf"
+					],
+					[
+						"conf.go",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"railg",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"railgu",
+						"cmd/scollector/collectors/railgun_linux.go"
+					],
+					[
+						"template.go",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"state.ts",
+						"cmd/bosun/web/static/js/state.ts"
+					],
+					[
+						"direct",
+						"cmd/bosun/web/static/js/directives.ts"
+					],
+					[
+						"templa",
+						"cmd/bosun/sched/template.go"
+					],
+					[
+						"fun",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"metadata",
+						"metadata/metadata.go"
+					],
+					[
+						"redis",
+						"cmd/scollector/collectors/redis_unix.go"
+					],
+					[
+						"procstat",
+						"cmd/scollector/collectors/procstats_linux.go"
+					],
+					[
+						"fu",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"func",
+						"cmd/bosun/expr/funcs.go"
+					],
+					[
+						"opentsdb",
+						"opentsdb/tsdb.go"
+					],
+					[
+						"ex",
+						"cmd/bosun/expr/expr.go"
+					],
+					[
+						"conf",
+						"cmd/bosun/conf/conf.go"
+					],
+					[
+						"process",
+						"cmd/scollector/collectors/process.go"
+					],
+					[
+						"hbase",
+						"cmd/scollector/collectors/hbase_unix.go"
+					],
+					[
+						"netback",
+						"cmd/scollector/collectors/netbackup.go"
+					],
+					[
+						"exp",
+						"cmd/bosun/web/expr.go"
+					],
+					[
+						"warr",
+						"~/src/collectors/dell_warranty/warranty.go"
+					],
+					[
+						"prod",
+						"~/src/bosun-config/prod.conf"
+					],
+					[
+						"meta",
+						"metadata/metadata.go"
+					],
+					[
+						"metadat",
+						"metadata/metadata.go"
+					],
+					[
+						"met",
+						"metadata/metadata.go"
+					],
+					[
+						"metada",
+						"metadata/metadata.go"
+					],
+					[
+						"disk",
+						"cmd/scollector/collectors/disk_linux.go"
+					],
+					[
+						"netb",
+						"collectors/netbackup.go"
+					],
+					[
+						"interval",
+						"collectors/interval.go"
+					],
+					[
+						"hab",
+						"collectors/hbase_unix.go"
+					],
+					[
+						"net",
+						"collectors/netbackup.go"
+					],
+					[
+						"c",
+						"collectors/collectors.go"
+					],
+					[
+						"cpu",
+						"collectors/cpu_windows.go"
+					],
+					[
+						"procst",
+						"collectors/procstats_linux.go"
+					],
+					[
+						"aler",
+						"web/partials/alertstate.html"
+					],
+					[
+						"a",
+						"web/partials/alertstate.html"
+					],
+					[
+						"state",
+						"web/static/js/state.ts"
+					],
+					[
+						"tsaf.ts",
+						"web/static/js/tsaf.ts"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+				],
+				"width": 755.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 104,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/kbrandt/Documents/scollector.sublime-workspace",
+			"/Users/kbrandt/Documents/tsaf.sublime-workspace"
+		]
+	}
+}
