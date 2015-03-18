@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.zshrc
+!Library/Application\ Support/Karabiner/private.xml
