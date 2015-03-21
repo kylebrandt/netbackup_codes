@@ -1,24 +1,172 @@
 <?xml version="1.0"?>
 <root>
 	<item>
-		<name>F19 to F19</name>
-		<appendix>(F19 to Hyper (ctrl+shift+cmd+opt) + F19 Only, send escape)</appendix>
-		<identifier>private.f192f19_escape</identifier>
-		<autogen>
-			--KeyOverlaidModifier--
-			KeyCode::F19,
-			KeyCode::COMMAND_L,
-			ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L | ModifierFlag::CONTROL_L,
-			KeyCode::ESCAPE
-		</autogen>
+		    <name>F19 to F19</name>
+    <appendix>(F19 to Hyper (ctrl+cmd+opt+extra1) + F19)</appendix>
+    <identifier>private.f192f19</identifier>
+    <autogen>
+      --KeyOverlaidModifier--
+      KeyCode::F19,
+      KeyCode::CONTROL_L,
+      ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L,
+      KeyCode::F19
+    </autogen>
 	</item>
 	<item>
-		<name>option+d to {</name>
-		<identifier>remap.optd_to_curly</identifier>
+		<name>option+u to {</name>
+		<identifier>remap.optu_to_curly</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::D, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::U, VK_OPTION | ModifierFlag::NONE,
 			KeyCode::BRACKET_LEFT, VK_SHIFT
 		</autogen>
 	</item>
+	<item>
+		<name>option+i to }</name>
+		<identifier>remap.opti_to_curly</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::I, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::BRACKET_RIGHT, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+j to (</name>
+		<identifier>remap.optj_to_paran</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::J, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_9, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+k to )</name>
+		<identifier>remap.optk_to_paran</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::K, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_0, VK_SHIFT
+		</autogen>
+	</item>
+		<item>
+		<name>option+m to [</name>
+		<identifier>remap.optm_to_lbracket</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::M, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::BRACKET_LEFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+, to ]</name>
+		<identifier>remap.optcomma_to_rbracket</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::COMMA, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::BRACKET_RIGHT
+		</autogen>
+	</item>
+	<item>
+		<name>option+d to -</name>
+		<identifier>remap.optd_to_minus</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::D, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::MINUS
+		</autogen>
+	</item>
+	<item>
+		<name>option+f to =</name>
+		<identifier>remap.optf_to_equal</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::F, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::EQUAL
+		</autogen>
+	</item>
+	<item>
+		<name>option+; to |</name>
+		<identifier>remap.optsemi_to_pipe</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::SEMICOLON, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::BACKSLASH, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+a to :</name>
+		<identifier>remap.opta_to_colon</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::A, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::SEMICOLON, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+s to _</name>
+		<identifier>remap.opts_to_pipe</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::S, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::MINUS, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+l to +</name>
+		<identifier>remap.l_to_plus</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::L, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::EQUAL, VK_SHIFT
+		</autogen>
+	</item>
+	
+	<item>
+		<name>option+q to !</name>
+		<identifier>remap.q_to_exclamation</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::Q, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_1, VK_SHIFT
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+e to UP</name>
+		<identifier>remap.hyper_e_to_up</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::E, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_UP
+		</autogen>
+	</item>
+	<item>
+		<name>hyper+d to down</name>
+		<identifier>remap.hyper_d_to_down</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::D, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_DOWN
+		</autogen>
+	</item>
+	<item>
+		<name>hyper+s to left</name>
+		<identifier>remap.hyper_s_to_left</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::S, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_LEFT
+		</autogen>
+	</item>
+	<item>
+		<name>hyper+f to DOWN</name>
+		<identifier>remap.hyper_f_to_right</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::F, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_DOWN
+		</autogen>
+	</item>
+	
+
 </root>
