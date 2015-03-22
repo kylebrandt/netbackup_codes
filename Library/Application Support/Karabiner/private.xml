@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <root>
 	<item>
-		    <name>F19 to F19</name>
-    <appendix>(F19 to Hyper (ctrl+cmd+opt+extra1) + F19)</appendix>
-    <identifier>private.f192f19</identifier>
-    <autogen>
-      --KeyOverlaidModifier--
-      KeyCode::F19,
-      KeyCode::CONTROL_L,
-      ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L,
-      KeyCode::F19
-    </autogen>
+		<name>F19 to F19</name>
+    	<appendix>(F19 to Hyper (ctrl+cmd+opt+extra1) + F19)</appendix>
+	    <identifier>private.f192f19</identifier>
+	    <autogen>
+	      --KeyOverlaidModifier--
+	      KeyCode::F19,
+	      KeyCode::CONTROL_L,
+	      ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L,
+	      KeyCode::F19
+	    </autogen>
 	</item>
 	<item>
 		<name>option+u to {</name>
@@ -130,9 +130,37 @@
 			KeyCode::KEY_1, VK_SHIFT
 		</autogen>
 	</item>
+	<item>
+		<name>option+g to &</name>
+		<identifier>remap.g_to_amper</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::G, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_7, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+h to *</name>
+		<identifier>remap.h_to_ast</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::H, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_8, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
+		<name>option+' to %</name>
+		<identifier>remap.quote_to_percent</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::QUOTE, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_5, VK_SHIFT
+		</autogen>
+	</item>
+ 
 
 	<item>
-		<name>hyper+e to UP</name>
+		<name>hyper+e to up</name>
 		<identifier>remap.hyper_e_to_up</identifier>
 		<autogen>
 			__KeyToKey__ 
@@ -159,12 +187,22 @@
 		</autogen>
 	</item>
 	<item>
-		<name>hyper+f to DOWN</name>
+		<name>hyper+f to right</name>
 		<identifier>remap.hyper_f_to_right</identifier>
 		<autogen>
 			__KeyToKey__ 
 			KeyCode::F, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
-			KeyCode::CURSOR_DOWN
+			KeyCode::CURSOR_RIGHT
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+r to delete</name>
+		<identifier>remap.hyper_r_to_delete</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::R, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::DELETE
 		</autogen>
 	</item>
 	
