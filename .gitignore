@@ -2,6 +2,6 @@
 *
 
 # But not these files...
+!Library/Application\ Support/Karabiner/private.xml
 !.gitignore
 !.zshrc
-!Library/Application\ Support/Karabiner/private.xml

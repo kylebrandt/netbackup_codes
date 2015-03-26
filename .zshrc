@@ -20,8 +20,8 @@ bindkey '5B' beginning-of-line #Ctrl-down
 bindkey '5A' end-of-line #Ctrl-up
 bindkey '3D' backward-kill-word #alt-left
 bindkey '3C' kill-word #alt-right
-bindkey '5D' backward-word #ctrl-left
-bindkey '5C' forward-word #ctrl-right
+bindkey '[D' backward-word #ctrl-left
+bindkey '[C' forward-word #ctrl-right
 bindkey '3B' backward-kill-line #Alt down
 bindkey '3A' kill-line #alt-up
 

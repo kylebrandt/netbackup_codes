@@ -197,12 +197,32 @@
 	</item>
 
 	<item>
-		<name>hyper+r to delete</name>
-		<identifier>remap.hyper_r_to_delete</identifier>
+		<name>hyper+a to delete</name>
+		<identifier>remap.hyper_a_to_delete</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::R, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::A, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::DELETE
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+q to back_word</name>
+		<identifier>remap.hyper_q_to_back_word</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::Q, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+w to forward_word</name>
+		<identifier>remap.hyper_w_to_forward_word</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::W, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L
 		</autogen>
 	</item>
 	
