@@ -226,5 +226,15 @@
 		</autogen>
 	</item>
 	
+	<item>
+		<name>left arrow to option</name>
+		<identifier>remap.arrow_to_option</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::CURSOR_LEFT,
+			KeyCode::OPTION_L
+		</autogen>
+	</item>
+
 
 </root>
