@@ -160,81 +160,102 @@
  
 
 	<item>
-		<name>hyper+e to up</name>
-		<identifier>remap.hyper_e_to_up</identifier>
+		<name>hyper+i to up</name>
+		<identifier>remap.hyper_i_to_up</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::E, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::I, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_UP
 		</autogen>
 	</item>
 	<item>
-		<name>hyper+d to down</name>
-		<identifier>remap.hyper_d_to_down</identifier>
+		<name>hyper+k to down</name>
+		<identifier>remap.hyper_k_to_down</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::D, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::K, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_DOWN
 		</autogen>
 	</item>
 	<item>
-		<name>hyper+s to left</name>
-		<identifier>remap.hyper_s_to_left</identifier>
+		<name>hyper+j to left</name>
+		<identifier>remap.hyper_j_to_left</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::S, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::J, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_LEFT
 		</autogen>
 	</item>
 	<item>
-		<name>hyper+f to right</name>
-		<identifier>remap.hyper_f_to_right</identifier>
+		<name>hyper+l to right</name>
+		<identifier>remap.hyper_l_to_right</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::F, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::L, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_RIGHT
 		</autogen>
 	</item>
 
 	<item>
-		<name>hyper+a to delete</name>
-		<identifier>remap.hyper_a_to_delete</identifier>
+		<name>hyper+; to delete</name>
+		<identifier>remap.hyper_semi_to_delete</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::A, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::SEMICOLON, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::DELETE
 		</autogen>
 	</item>
 
 	<item>
-		<name>hyper+q to back_word</name>
-		<identifier>remap.hyper_q_to_back_word</identifier>
+		<name>hyper+' to delete forward</name>
+		<identifier>remap.hyper_quote_to_forward_delete</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::Q, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::QUOTE, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::FORWARD_DELETE
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+u to back_word</name>
+		<identifier>remap.hyper_u_to_back_word</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::U, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L
 		</autogen>
 	</item>
 
 	<item>
-		<name>hyper+w to forward_word</name>
-		<identifier>remap.hyper_w_to_forward_word</identifier>
+		<name>hyper+m to workspace left</name>
+		<identifier>remap.hyper_m_to_ws_left</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::W, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::M, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_LEFT, ModifierFlag::CONTROL_L
+		</autogen>
+	</item>
+
+		<item>
+		<name>hyper+, to workspace right</name>
+		<identifier>remap.hyper_comma_to_ws_right</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::COMMA, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_RIGHT, ModifierFlag::CONTROL_L
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+o to forward_word</name>
+		<identifier>remap.hyper_o_to_forward_word</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::O, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L
 		</autogen>
 	</item>
-	
-	<item>
-		<name>left arrow to option</name>
-		<identifier>remap.arrow_to_option</identifier>
-		<autogen>
-			__KeyToKey__ 
-			KeyCode::CURSOR_LEFT,
-			KeyCode::OPTION_L
-		</autogen>
-	</item>
+
 
 
 </root>
