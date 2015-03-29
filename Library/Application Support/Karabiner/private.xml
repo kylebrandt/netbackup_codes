@@ -256,6 +256,27 @@
 		</autogen>
 	</item>
 
+	<item>
+		<name>hyper+e to cmd/option/Left (left tab)</name>
+		<identifier>remap.hyper_e_to_left_tab</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::E, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+e to cmd/option/Right (right tab)</name>
+		<identifier>remap.hyper_e_to_right_tab</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::R, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L
+		</autogen>
+	</item>
+
+
 
 
 </root>
