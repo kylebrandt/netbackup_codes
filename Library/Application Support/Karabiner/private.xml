@@ -157,6 +157,33 @@
 			KeyCode::KEY_5, VK_SHIFT
 		</autogen>
 	</item>
+	<item>
+		<name>option+/ to \</name>
+		<identifier>remap.forward_to_back</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::SLASH, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::BACKSLASH
+		</autogen>
+	</item>
+	<item>
+		<name>option+e to $</name>
+		<identifier>remap.e_to_dollar</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::E, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_4, VK_SHIFT
+		</autogen>
+	</item>
+		<item>
+		<name>option+space to space</name>
+		<identifier>remap.space_to_space</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::SPACE, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::SPACE
+		</autogen>
+	</item>
  
 
 	<item>
@@ -203,6 +230,16 @@
 			__KeyToKey__ 
 			KeyCode::SEMICOLON, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::DELETE
+		</autogen>
+	</item>
+
+	<item>
+		<name>hyper+tab to caps lock</name>
+		<identifier>remap.hyper_tab_to_capl</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::TAB, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CAPSLOCK
 		</autogen>
 	</item>
 
