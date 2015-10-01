@@ -1,11 +1,11 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/kbrandt/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="ys"
+ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -53,11 +53,9 @@ plugins=(git)
 
 # User configuration
 
-export PATH="/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/kbrandt/bin:/usr/local/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/sbin:/Users/kbrandt//bin:/usr/local/go/bin:/Users/kbrandt/src/blackbox/bin/"
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 # export MANPATH="/usr/local/man:$MANPATH"
 
-DOCKER_HOST=tcp://192.168.99.100:2376
-DOCKER_CERT_PATH=/Users/kbrandt/.docker/machine/machines/default
 source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
