@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/kbrandt/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
@@ -53,7 +53,7 @@ plugins=(git)
 
 # User configuration
 
-export PATH="/usr/local/bin:/opt/local/bin:/opt/local/sbin:/Users/kbrandt/bin:/usr/local/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/sbin:/Users/kbrandt//bin:/usr/local/go/bin:/Users/kbrandt/src/blackbox/bin/"
+export PATH="/usr/local/bin:/opt/local/bin:/opt/local/sbin:~/bin:/usr/local/bin:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/sbin:~/bin:/usr/local/go/bin:~/src/blackbox/bin/"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 DOCKER_HOST=tcp://192.168.99.100:2376
