@@ -60,6 +60,12 @@ DOCKER_HOST=tcp://192.168.99.100:2376
 DOCKER_CERT_PATH=/Users/kbrandt/.docker/machine/machines/default
 source $ZSH/oh-my-zsh.sh
 
+export GOPATH=/Users/kbrandt/
+export PATH="$PATH:$GOPATH/bin"
+export PATH="$PATH:/usr/local/go/bin"
+export PATH=$PATH:~/src/blackbox/bin/
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
 
