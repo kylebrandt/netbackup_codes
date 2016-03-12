@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.fontSize": 14,
+	"go.formatOnSave": false,
+    "go.gopath": "/Users/kbrandt",
+    "go.goroot": "/usr/local/go",
+    "editor.wrappingColumn": 0,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 4000
+}

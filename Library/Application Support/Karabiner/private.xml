@@ -131,30 +131,30 @@
 		</autogen>
 	</item>
 	<item>
-		<name>option+g to &</name>
-		<identifier>remap.g_to_amper</identifier>
+		<name>option+z to &</name>
+		<identifier>remap.z_to_amper</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::G, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::Z, VK_OPTION | ModifierFlag::NONE,
 			KeyCode::KEY_7, VK_SHIFT
 		</autogen>
 	</item>
 	<item>
-		<name>option+h to *</name>
-		<identifier>remap.h_to_ast</identifier>
+		<name>option+x to *</name>
+		<identifier>remap.x_to_ast</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::H, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::X, VK_OPTION | ModifierFlag::NONE,
 			KeyCode::KEY_8, VK_SHIFT
 		</autogen>
 	</item>
-	<item>
-		<name>option+' to %</name>
-		<identifier>remap.quote_to_percent</identifier>
+    <item>
+		<name>option+v to jsfunc</name>
+		<identifier>remap.v_to_jsfunc</identifier>
 		<autogen>
 			__KeyToKey__ 
-			KeyCode::QUOTE, VK_OPTION | ModifierFlag::NONE,
-			KeyCode::KEY_5, VK_SHIFT
+			KeyCode::V, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::EQUAL, KeyCode::DOT, VK_SHIFT
 		</autogen>
 	</item>
 	<item>
@@ -166,16 +166,52 @@
 			KeyCode::BACKSLASH
 		</autogen>
 	</item>
+    <item>
+		<name>option+w to @</name>
+		<identifier>remap.w_to_at</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::W, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_2, VK_SHIFT
+		</autogen>
+	</item>
 	<item>
-		<name>option+e to $</name>
-		<identifier>remap.e_to_dollar</identifier>
+		<name>option+e to #</name>
+		<identifier>remap.e_to_pound</identifier>
 		<autogen>
 			__KeyToKey__ 
 			KeyCode::E, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_3, VK_SHIFT
+		</autogen>
+	</item>
+    <item>
+		<name>option+r to $</name>
+		<identifier>remap.r_to_dollar</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::R, VK_OPTION | ModifierFlag::NONE,
 			KeyCode::KEY_4, VK_SHIFT
 		</autogen>
 	</item>
-		<item>
+    <item>
+		<name>option+t to %</name>
+		<identifier>remap.t_to_percent</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::T, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_5, VK_SHIFT
+		</autogen>
+	</item>
+    <item>
+		<name>option+y to ^</name>
+		<identifier>remap.y_to_carrot</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::Y, VK_OPTION | ModifierFlag::NONE,
+			KeyCode::KEY_6, VK_SHIFT
+		</autogen>
+	</item>
+	<item>
 		<name>option+space to space</name>
 		<identifier>remap.space_to_space</identifier>
 		<autogen>
@@ -232,17 +268,6 @@
 			KeyCode::DELETE
 		</autogen>
 	</item>
-
-	<item>
-		<name>hyper+tab to caps lock</name>
-		<identifier>remap.hyper_tab_to_capl</identifier>
-		<autogen>
-			__KeyToKey__ 
-			KeyCode::TAB, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
-			KeyCode::CAPSLOCK
-		</autogen>
-	</item>
-
 	<item>
 		<name>hyper+' to delete forward</name>
 		<identifier>remap.hyper_quote_to_forward_delete</identifier>
@@ -254,12 +279,33 @@
 	</item>
 
 	<item>
+		<name>hyper+tab to caps lock</name>
+		<identifier>remap.hyper_tab_to_capl</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::TAB, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CAPSLOCK
+		</autogen>
+	</item>
+
+
+
+	<item>
 		<name>hyper+u to back_word</name>
 		<identifier>remap.hyper_u_to_back_word</identifier>
 		<autogen>
 			__KeyToKey__ 
 			KeyCode::U, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
 			KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L
+		</autogen>
+	</item>
+    <item>
+		<name>hyper+o to forward_word</name>
+		<identifier>remap.hyper_o_to_forward_word</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::O, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
+			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L
 		</autogen>
 	</item>
 
@@ -284,16 +330,6 @@
 	</item>
 
 	<item>
-		<name>hyper+o to forward_word</name>
-		<identifier>remap.hyper_o_to_forward_word</identifier>
-		<autogen>
-			__KeyToKey__ 
-			KeyCode::O, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
-			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L
-		</autogen>
-	</item>
-
-	<item>
 		<name>hyper+e to cmd/option/Left (left tab)</name>
 		<identifier>remap.hyper_e_to_left_tab</identifier>
 		<autogen>
@@ -302,18 +338,4 @@
 			KeyCode::CURSOR_LEFT, ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L
 		</autogen>
 	</item>
-
-	<item>
-		<name>hyper+e to cmd/option/Right (right tab)</name>
-		<identifier>remap.hyper_e_to_right_tab</identifier>
-		<autogen>
-			__KeyToKey__ 
-			KeyCode::R, ModifierFlag::EXTRA1 | ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L | ModifierFlag::CONTROL_L,
-			KeyCode::CURSOR_RIGHT, ModifierFlag::OPTION_L | ModifierFlag::COMMAND_L
-		</autogen>
-	</item>
-
-
-
-
 </root>
