@@ -12,6 +12,15 @@
 	      KeyCode::F19
 	    </autogen>
 	</item>
+    <item>
+		<name>PC to CTRL</name>
+		<identifier>remap.pc_to_ctrl</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::PC_APPLICATION| ModifierFlag::NONE,
+			KeyCode::CONTROL_R
+		</autogen>
+	</item>
 	<item>
 		<name>option+u to {</name>
 		<identifier>remap.optu_to_curly</identifier>

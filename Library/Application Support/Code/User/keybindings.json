@@ -4,5 +4,6 @@
         "key": "ctrl+alt+cmd+f",
         "command": "editor.action.format",
         "when": "editorTextFocus"
-    }
+    },
+    
 ]
